@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "This is post number one"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is post number two"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "body": "This is post number three"
+    }
+  ],
+  "family": [
+    {
+      "id": 1,
+      "title": "Michael",
+      "body": "This is post number one"
+    },
+    {
+      "id": 2,
+      "title": "Melissa",
+      "body": "This is post number two"
+    },
+    {
+      "id": 3,
+      "title": "Malakaya",
+      "body": "This is post number three"
+    }
+  ]
+}
